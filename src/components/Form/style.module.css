@@ -1,0 +1,27 @@
+.input_form{
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: #a5b1c2;
+}
+
+.input_form input{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    background-color: #d1d8e0;
+}
+
+.input_form button{
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    background-color: #778ca3;
+}
+
+.input_form h2 {
+    align-content: center;
+}
